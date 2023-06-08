@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+    background-color: #b1aeae;
+    position: relative;
+}
+.box {
+    position: absolute;
+    top: 50px;
+    left:50px;
+   width: 1000px;
+}
